@@ -21,7 +21,7 @@ Dive in and elevate your programming journey with handpicked tools, tutorials, a
 - [💼 Internships](#-internships)
 - [🧑‍💻 Jobs](#-jobs)
 - [🛠️ Contributing](#️-contributing)
-- [📄 License](#-license)
+- [📄 License](https://github.com/harmanpreet-singh1/awesome-resources-for-programmers/blob/main/LICENSE)
 
 ---
 
