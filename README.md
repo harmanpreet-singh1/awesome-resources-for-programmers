@@ -8,16 +8,18 @@ Dive in and elevate your programming journey with handpicked tools, tutorials, a
 
 ## 🧭 Table of Contents
 
-- [👋 Introduction](#-introduction)
-- [📁 Folder Structure](#-folder-structure)
-- [⚙️ Installation](#️-installation)
-- [🚀 Getting Started](#-getting-started)
+- [📰 News](#-news)
 - [🧑‍🏫 Tutorials](#-tutorials)
   - [📜 JavaScript](#-javascript)
   - [🐍 Python](#-python)
   - [🌐 Web / Frontend](#-web--frontend)
   - [⚙️ DevOps / Tooling](#️-devops--tooling)
   - [📚 General / Multi-language](#-general--multi-language)
+- [👶 Coding Practice for Beginners](#-coding-practice-for-beginners)
+- [🎧 Podcasts](#-podcasts)
+- [🌐 Open Source Websites](#-open-source-websites)
+- [💼 Internships](#-internships)
+- [🧑‍💻 Jobs](#-jobs)
 - [🛠️ Contributing](#️-contributing)
 - [📄 License](#-license)
 
