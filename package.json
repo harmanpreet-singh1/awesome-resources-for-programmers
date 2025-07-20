@@ -1,0 +1,10 @@
+{
+  "name": "awesome-resources-for-programmers ",
+  "packageManager": "yarn@4.6.0",
+  "scripts": {
+    "prettier": "prettier"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  }
+}
